@@ -1,5 +1,7 @@
 # Fundamentos de NodeJS
 
+Curso sobre las bases de nodeJS y como funciona su nucleo
+
 ## Ejecucion
 
 ```
